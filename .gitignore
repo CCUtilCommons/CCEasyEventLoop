@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+# Build Dirent
+build/
+
+# vscode options
+.vscode/
+
+# clangd
+.cache/
+
 # Compiled Object files
 *.slo
 *.lo
